@@ -123,7 +123,7 @@ Après avoir réussi à installer les programmes sur les microcontrôleurs AVR, 
 
 En raison de contraintes de temps, certaines fonctionnalités et classes initialement prévues pour le projet n'ont pas été mises en œuvre. Il s'agit notamment des éléments suivants
 
-- **Transmission et réception infrarouge** **Visualisation du positionnement initial du robot
+- **Transmission et réception infrarouge** Visualisation du positionnement initial du robot
 - **Visualisation du positionnement initial du robot 1**.
 
 Les versions futures de ce projet pourraient intégrer ces fonctionnalités manquantes afin d'améliorer le système dans son ensemble.
