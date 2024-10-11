@@ -6,7 +6,8 @@
     - [Connections](#connections)
     - [Installation](#installation)
     - [Use](#use)
-- [Version française](#titre-du-projet--gustave)
+
+[Version française](#titre-du-projet--gustave)
   - [Aperçu](#aperçu)
   - [Fonctionnalités](#fonctionnalités)
   - [Pour Commencer](#pour-commencer)
